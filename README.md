@@ -1,4 +1,4 @@
-# Project Name
+# PRF Potence(x,y)
 
 This project aims to implement a simple program that calculates the potence(x, y) using Primitive Recursive Functions (PRF).
 As an extra, the program also calculates the factorial, division and multiplication using PRF.
@@ -18,7 +18,7 @@ As an extra, the program also calculates the factorial, division and multiplicat
 ### Clone the Repository
 
 ```bash
-git clone [repository_link]
+git clone [repository_link](https://github.com/cracksuxer/ComplejidadComputacional_3)
 cd [repository_directory]
 ```
 
