@@ -18,7 +18,7 @@ As an extra, the program also calculates the factorial, division and multiplicat
 ### Clone the Repository
 
 ```bash
-git clone [repository_link](https://github.com/cracksuxer/ComplejidadComputacional_3)
+git clone https://github.com/cracksuxer/ComplejidadComputacional_3
 cd [repository_directory]
 ```
 
